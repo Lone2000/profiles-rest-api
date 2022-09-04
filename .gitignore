@@ -132,6 +132,10 @@ dmypy.json
 ### Vagrant Patch ###
 *.box
 
+### SSH Files ###
+\357\200\233[\357\200\233[C\357\200\233[Cclear
+\357\200\233[\357\200\233[C\357\200\233[Cclear.pub
+
 # End of https://www.gitignore.io/api/python,vagrant
 eb-package.zip
 static/
